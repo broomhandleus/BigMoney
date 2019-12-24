@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Big Money</string>
     <string name="action_settings">Settings</string>
+    <string name="charts">Charts</string>
+    <string name="add_money">Add</string>
+    <string name="settings">Settings</string>
 </resources>

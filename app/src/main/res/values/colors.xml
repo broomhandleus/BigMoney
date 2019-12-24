@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="big_money_primary_color">#ffa7ff</color>
-    <color name="big_money_secondary_color">#81c784</color>
+    <color name="big_money_secondary_color">#ffa7ff</color>
+    <color name="big_money_primary_color">#81c784</color>
     <color name="big_money_background_color">#121212</color>
     <color name="big_money_error_color">#cf6679</color>
-    <color name="big_money_primary_variant_color">#ffa7ff</color>
-    <color name="big_money_secondary_variant_color">#81c784</color>
+    <color name="big_money_secondary_variant_color">#ffa7ff</color>
+    <color name="big_money_primary_variant_color">#81c784</color>
     <color name="big_money_surface_color">#303030</color>
     <color name="big_money_color_on_primary">#000000</color>
     <color name="big_money_color_on_secondary">#000000</color>
