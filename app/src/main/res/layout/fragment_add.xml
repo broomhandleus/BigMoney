@@ -9,5 +9,5 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="Welcome to the Add Money Fragment!"
-        android:textColor="@color/big_money_color_on_background"/>
+        android:textColor="@color/big_money_color_on_background" />
 </FrameLayout>
